@@ -1,0 +1,22 @@
+{
+  "name": "signalk-raspberry-pi-temperature",
+  "version": "1.0.0",
+  "description": "Signal K Node Server Plugin To Provide Raspberry PI CPU Temperature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "scott@scottbender.net",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "lodash": "^3.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbender9/signalk-raspberry-pi-temperature"
+  }
+}
